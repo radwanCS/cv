@@ -29,7 +29,7 @@ This page contains a selection of my current and previous research/course/toy pr
   {% endif %}
 {% endfor %}
 
-<!--
+{% comment %}
 ## Web Development
 ---
 
@@ -47,4 +47,4 @@ This page contains a selection of my current and previous research/course/toy pr
     {% include archive-single-project.html %}
   {% endif %}
 {% endfor %}
--->
+{% endcomment %}
